@@ -61,7 +61,6 @@ function appendOneBreed(breed) {
 }
 
 function changeColor(li) {
-  // const li = event.target.parentElement;
   if (li.classList.contains("red")) {
     li.classList.remove("red");
   } else {
