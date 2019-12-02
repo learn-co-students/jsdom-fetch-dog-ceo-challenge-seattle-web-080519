@@ -1,0 +1,16 @@
+.dog {
+  max-width: 200px;
+  max-height: 200px;
+}
+
+.red {
+  color: red;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.hidden {
+  display: none;
+}
